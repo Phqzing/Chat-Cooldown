@@ -4,7 +4,7 @@ cooldown: 3
 
 #message sent to a player when they talk while still in cooldown
 #{time} - time they have left before thay can talk again
-message: "you still have {time} before you can talk again"
+message: "you still have {time} seconds before you can talk again"
 
 #players with this permission will not be affected by the cooldown and can talk as fast as they want
 bypass-permission: bypass.chat.cooldown
