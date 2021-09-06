@@ -1,0 +1,5 @@
+name: ChatCooldown
+version: 0.1
+api: 3.0.0
+author: Phqzing
+main: Phqzing\ChatCooldown
